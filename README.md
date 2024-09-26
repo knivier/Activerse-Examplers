@@ -20,6 +20,13 @@ In **Bounce to Brick**, you control a ball using paddles to hit bricks and score
 ### Features
 - **Control the Ball:** Use the paddles to bounce the ball into bricks! 🏐
 
+### Warnings
+> **⚠️ VERSION WARNING**  
+> Always use the latest version of Activerse to prevent bugs and avoid compatibility issues. Running outdated versions may result in unexpected behavior or crashes. All games are usually updated with 100% functionality, however if you experience any bugs, updating to the latest version will usually resolve this
+
+> **❌ ROLLBACKS**
+> **DO NOT** rollback versions for the engine when running the games, especially when you are rewriting the projects. While you are encouraged modify the given games (adhering to license guidelines), messing with version numbers may cause instability and rollbacks provide performance/security updates that are critical. Most of these games are constructed from new version proof of concepts, so going back even one version can be catastrophic. 
+
 ## License Information 📜
 
 Activerse and it's exampler games created by the Activerse team © 2024 by Knivier / Agniva is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). What does this mean for you? 
